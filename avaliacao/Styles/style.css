@@ -18,7 +18,7 @@ header,footer{
 
 #bannerPrimeiroMetodo{
     height: 500px;
-    background-image: url(../images/banner.jpg);
+    background-image: url(images);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
